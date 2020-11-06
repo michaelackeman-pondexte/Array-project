@@ -7,7 +7,7 @@ System.out.println(seats.length);
 String [] names = {"","","","","","","","","","","","","","",""};
 System.out.println(names.length);
 
-
+ 
 
 
 
